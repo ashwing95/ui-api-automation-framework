@@ -1,8 +1,5 @@
 import com.ashwin.framework.base.BaseTest;
 import com.ashwin.framework.pages.LoginPage;
-import org.openqa.selenium.WebElement;
-import org.testng.Assert;
-import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 public class HomePageTest extends BaseTest {

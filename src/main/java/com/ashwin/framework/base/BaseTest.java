@@ -1,5 +1,5 @@
 package com.ashwin.framework.base;
-import com.ashwin.framework.utils.ConfigReader;
+//import com.ashwin.framework.utils.ConfigReader;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.AfterMethod;
